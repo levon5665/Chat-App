@@ -20,3 +20,6 @@ node server.js
 !!! MAKE SURE THAT YOU HAVE NODE.JS AND GULP INSTALLED GLOBALLY!!!
 
 SIDE BY SIDE SIMPLE AND FUN CHAT APPLICATION
+
+
+https://chat-fun-room.herokuapp.com/
